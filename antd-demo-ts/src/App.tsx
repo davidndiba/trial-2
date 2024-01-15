@@ -4,14 +4,14 @@ import Overview from './pages/overview';
 import Servers from './pages/servers';
 import ExchangeSessions from './pages/exchangeSessions';
 import Mapping from './pages/mapping';
-import Login from './pages/login';
+import Home from './pages/login';
 import Register from './pages/register';
 function App() {
   return (
     <Router>
       <div className="App">
         <Routes>
-          <Route path="/login" element={<Login />}/>
+          <Route path="/" element={<Home />}/>
           <Route path="/register" element={<Register />}/>
           <Route path="/overview" element={<Overview />} />
           <Route path="/servers" element={<Servers />} />
