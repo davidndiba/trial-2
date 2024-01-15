@@ -114,7 +114,7 @@ const Register: React.FC = () => {
   <Input id="password" type="password" />
 </div>
             <button className="btn btn-primary mb-3 px-5" style={{backgroundColor:"#0593B8"}}>
-              <Link to="/organizationdetails" className="text-white-text-decoration-none">
+              <Link to="/organizationDetails" className="text-white-text-decoration-none">
                 Create Account
               </Link>
             </button>
