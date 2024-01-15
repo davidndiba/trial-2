@@ -373,3 +373,31 @@ h4{
 .text-white-text-decoration-none{
 color: white;
 }
+.btn-btn-primary-btn-block{
+  color: white;
+}
+.additional-text-1{
+  width: 475px;
+  height: 88px;
+  font: "Inter";
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 44px;
+  align-self: center;
+}
+.additional-text-2{
+ width: 620px;
+ height: 40px;
+ font: "Inter";
+ font-weight: 400;
+ font-size: 14px;
+ line-height: 20px;
+ letter-spacing: 0.5px;
+ align-self: center;
+ color: #111111; 
+}
+.change{
+  width: 96px;
+  height: 96px;
+  color: #0593B8;
+}
