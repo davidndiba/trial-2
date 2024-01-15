@@ -331,7 +331,7 @@ h4{
 .login-card{
   padding: 40px;
   width: 440px;
-  height: 455px;
+  height: 485px;
   top: 171px;
   left: 50px;
   gap: 50px;
@@ -354,4 +354,22 @@ h4{
   line-height: 24px;
   letter-spacing: 0.5px;
   color: #FFFFFF;
+}
+.avatar-item{
+  font: "Inter";
+  font-weight: 100;
+  font-size: 14px;
+  line-height: 32px;
+  color: #ffffff;
+}
+.welcome-text{
+  font: "Inter";
+  font-weight: 400;
+  font-size: 35px;
+  line-height: 52px;
+  color: #ffffff;
+  padding: 20px;
+}
+.text-white-text-decoration-none{
+color: white;
 }
