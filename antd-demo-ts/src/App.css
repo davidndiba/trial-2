@@ -328,3 +328,30 @@ h4{
   line-height: 24px;
   color: #828282;
 }
+.login-card{
+  padding: 40px;
+  width: 440px;
+  height: 455px;
+  top: 171px;
+  left: 50px;
+  gap: 50px;
+}
+.additional-text{
+  font: "Inter";
+  font-weight: 400;
+  font-size: 35px;
+  line-height: 52px;
+  color: #FFFFFF;
+  width: 529px;
+  height: 52px;
+}
+.mike{
+  width: 442px;
+  height: 84px;
+  font: "Inter";
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.5px;
+  color: #FFFFFF;
+}
